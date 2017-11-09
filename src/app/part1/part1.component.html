@@ -1,0 +1,50 @@
+<table id="info">
+  <tr>
+    <td>
+      <app-info-component [title]='title' [amount]='amount'></app-info-component>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+
+      <div>
+          <table id="content">
+            <tr>
+              <td colspan=3>
+                  <div id="triangle"></div>
+              </td>
+              <td style="display: none"></td>
+            </tr>
+            <tr *ngFor="let example of examples[planetNumber-1]">
+              <td *ngFor="let ex of example.split('')">
+                <input [class.resizedTextbox]="planetNumber < 4" [class.resizedTextbox_2]="planetNumber == 4" [placeholder]="ex">
+              </td>
+              <td><td>
+            </tr>
+
+            <tr id = 'words' *ngFor="let item of sourceWords; let i = index;">
+              <td *ngFor="let item2 of helper[i]; let j = index;">
+                  <input [class.resizedTextbox]="planetNumber < 4" [class.resizedTextbox_2]="planetNumber == 4" name="{{i}}{{j}}"
+                      [(ngModel)]="helper[i][j].value"/>
+              </td>
+              <td>
+                <div id="items">
+                  {{item}}
+                </div>
+            </td>
+            </tr>
+
+            <tr>
+              <td colspan=6>
+              </td>
+              <td id="forSubmit">
+                <app-check-component (exerciseSubmitEvent)="returnScore($event)"></app-check-component>
+              </td>
+            </tr>
+          </table>
+      </div>
+
+    </td>
+  </tr>
+</table>

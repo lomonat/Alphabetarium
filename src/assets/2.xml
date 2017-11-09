@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LIX-Index: 24 -->
+
+<text>
+
+
+<titel>
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<wort POS="NE" lemma="Arktis" silb="Ark-tis" morph="Arktis">Arktis</wort>
+</PC>
+</titel><x/>
+
+<satz nr="1">
+<kleineswort>Warum</kleineswort><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="können" silb="kön-nen" morph="könn-en">können</smmark>
+</VC><x/>
+<NC>
+<kleineswort>sich</kleineswort>
+</NC><x/>
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<kleineswort>und</kleineswort><x/>
+<NC>
+<langw><smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Pinguin" silb="Pin-gu-i-ne" morph="Pinguine">Pinguine</smmark></langw>
+</NC><x/>
+<kleineswort>nur</kleineswort><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Zoo" silb="Zoo" morph="Zoo">Zoo</wort></merkw>
+</PC><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVINF" lemma="treffen" silb="tref-fen" morph="treff-en" kluster="tr-effen">treffen</smmark></klusterw></langw>
+</VC>?
+</satz><x/>
+
+<satz nr="2">
+<NC>
+<langw><smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Pinguin" silb="Pin-gu-i-ne" morph="Pinguine">Pinguine</smmark></langw>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVINF" lemma="leben" silb="le-ben" morph="leb-en">leben</sm>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="Süden" silb="Sü-den" morph="Süd-en">Süden</sm>
+</PC><x/>
+<NC>
+<kleineswort>der</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Erde" silb="Er-de" morph="Er-de">Erde</sm>
+</NC>.
+</satz><x/>
+
+<satz nr="3">
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVINF" lemma="leben" silb="le-ben" morph="leb-en">leben</sm>
+</VC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<wort POS="NE" lemma="Arktis" silb="Ark-tis" morph="Arktis">Arktis</wort>
+</PC><x/>
+<kleineswort>ganz</kleineswort><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Norden" silb="Nor-den" morph="Nord-en">Norden</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="4">
+<PC>
+<kleineswort>In</kleineswort><x/>
+<sm akzsilb="LV" graphem="ie" POS="PDAT" lemma="dies" silb="die-sem" morph="dies-em">diesem</sm><x/>
+<sm akzsilb="LV" graphem="ch" POS="NN" lemma="Buch" silb="Buch" morph="Buch">Buch</sm>
+</PC><x/>
+<VC>
+<langw><merkw graphem="dehn-h"><wort POS="VVFIN" lemma="erfahren" silb="er-fährst" morph="er-fähr-st">erfährst</wort></merkw></langw>
+</VC><x/>
+<NC>
+<kleineswort>du</kleineswort>
+</NC><x/>
+<kleineswort>etwas</kleineswort><x/>
+<PC>
+<kleineswort>über</kleineswort><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</PC><x/>
+<kleineswort>und</kleineswort><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<wort POS="NE" lemma="Arktis" silb="Ark-tis" morph="Arktis">Arktis</wort>
+</NC>.
+</satz><x/>
+
+<satz nr="5">
+<PC>
+<kleineswort>In</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Mitte" silb="Mit-te" morph="Mitte">Mitte</smmark>
+</PC><x/>
+<NC>
+<kleineswort>der</kleineswort><x/>
+<wort POS="NE" lemma="Arktis" silb="Ark-tis" morph="Arktis">Arktis</wort>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="ie" POS="VVFIN" lemma="liegen" silb="liegt" morph="lieg-t">liegt</sm>
+</VC><x/>
+<NC>
+<kleineswort>ein</kleineswort><x/>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Meer" silb="Meer" morph="Meer">Meer</wort></merkw>
+</NC>,<x/>
+<NC>
+<kleineswort>das</kleineswort><x/>
+<langw><merkw graphem="vokdopp"><wort POS="NN" lemma="Nordpolarmeer" silb="Nord-po-lar-meer" morph="Nord-polarme-er">Nordpolarmeer</wort></merkw></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="6">
+<NC>
+<kleineswort>Es</kleineswort>
+</NC><x/>
+<VC>
+<kleineswort>ist</kleineswort>
+</VC><x/>
+<PC>
+<kleineswort>über</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="ADJA" lemma="weit" silb="wei-te" morph="weit-e">weite</sm><x/>
+<langw><klusterw><smmark akzsilb="KV" graphem="ch" POS="NN" lemma="Fläche" silb="Flä-chen" morph="Fläch-en" kluster="Fl-ächen">Flächen</smmark></klusterw></langw>
+</PC><x/>
+<PC>
+<kleineswort>mit</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC><x/>
+<VC>
+<langw><wort POS="VVPP" lemma="bedecken" silb="be-deckt" morph="be-deck-t">bedeckt</wort></langw>
+</VC>.
+</satz><x/>
+
+<satz nr="7">
+<PC>
+<kleineswort>Im</kleineswort><x/>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Meer" silb="Meer" morph="Meer">Meer</wort></merkw>
+</PC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVINF" lemma="leben" silb="le-ben" morph="leb-en">leben</sm>
+</VC><x/>
+<NC>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC>,<x/>
+<NC>
+<smmark akzsilb="KV" graphem="sch" POS="NN" lemma="Fisch" silb="Fi-sche" morph="Fisch-e">Fische</smmark>
+</NC><x/>
+<kleineswort>und</kleineswort><x/>
+<NC>
+<klusterw><sm akzsilb="LV" graphem="diphthong" POS="ADJA" lemma="klein" silb="klei-ne" morph="klein-e" kluster="kl-eine">kleine</sm></klusterw><x/>
+<sm akzsilb="LV" graphem="ie" POS="NN" lemma="Tier" silb="Tie-re" morph="Tier-e">Tiere</sm>
+</NC><x/>
+<kleineswort>und</kleineswort><x/>
+<NC>
+<langw><klusterw><sm akzsilb="KV" graphem="KC" POS="NN" lemma="Pflanze|Pflanzen" silb="Pflan-zen" morph="Pflanze-n" kluster="Pfl-anzen">Pflanzen</sm></klusterw></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="8">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<langw><klusterw><sm akzsilb="KV" graphem="KC" POS="ADJA" lemma="groß" silb="grö-ß-ten" morph="größ-t-en" kluster="gr-ößten">größten</sm></klusterw></langw><x/>
+<sm akzsilb="LV" graphem="ie" POS="NN" lemma="Tier" silb="Tie-re" morph="Tier-e">Tiere</sm>
+</NC><x/>
+<NC>
+<kleineswort>der</kleineswort><x/>
+<wort POS="NE" lemma="Arktis" silb="Ark-tis" morph="Arktis">Arktis</wort>
+</NC><x/>
+<VC>
+<kleineswort>sind</kleineswort>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="9">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVINF" lemma="leben" silb="le-ben" morph="leb-en">leben</sm>
+</VC><x/>
+<PC>
+<kleineswort>auf</kleineswort><x/>
+<kleineswort>dem</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC>,<x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Meer" silb="Meer" morph="Meer">Meer</wort></merkw>
+</PC><x/>
+<kleineswort>und</kleineswort><x/>
+<PC>
+<kleineswort>auf</kleineswort><x/>
+<kleineswort>dem</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Land" silb="Land" morph="Land">Land</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="10">
+<PC>
+<kleineswort>Im</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Herbst" silb="Herbst" morph="Herbst">Herbst</sm>
+</PC><x/>
+<VC>
+<sm akzsilb="LV" graphem="ch" POS="VVFIN" lemma="suchen" silb="sucht" morph="such-t">sucht</sm>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="unknown" silb="Bä-rin" morph="Bärin">Bärin</sm>
+</NC><x/>
+<PC>
+<kleineswort>an</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Land" silb="Land" morph="Land">Land</sm>
+</PC><x/>
+<NC>
+<sm akzsilb="LV" graphem="diphthong" POS="ART" lemma="eine" silb="ei-ne" morph="ein-e">eine</sm><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="NN" lemma="Höhle" silb="Höh-le" morph="Höhle">Höhle</sm></merkw>
+</NC>.
+</satz><x/>
+
+<satz nr="11">
+<kleineswort>Dort</kleineswort><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="kommen" silb="kom-men" morph="komm-en">kommen</smmark>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Winter" silb="Win-ter" morph="Winter">Winter</sm>
+</PC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</NC><x/>
+<PC>
+<kleineswort>zur</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Welt" silb="Welt" morph="Welt">Welt</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="12">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<langw><klusterw><sm akzsilb="LV" graphem="diphthong" POS="VVFIN" lemma="bleiben" silb="blei-ben" morph="bleib-en" kluster="bl-eiben">bleiben</sm></klusterw></langw>
+</VC><x/>
+<NC>
+<klusterw><sm akzsilb="LV" graphem="diphthong" POS="CARD" lemma="drei" silb="drei" morph="drei" kluster="dr-ei">drei</sm></klusterw><x/>
+<langw><wort POS="NN" lemma="Monat" silb="Mo-na-te" morph="Monat-e">Monate</wort></langw>
+</NC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="NN" lemma="Höhle" silb="Höh-le" morph="Höhle">Höhle</sm></merkw>
+</PC>.
+</satz><x/>
+
+<satz nr="13">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<langw><klusterw><sm akzsilb="KV" graphem="KC" POS="VVINF" lemma="trinken" silb="trin-ken" morph="trink-en" kluster="tr-inken">trinken</sm></klusterw></langw>
+</VC><x/>
+<NC>
+<sm akzsilb="KV" graphem="Kch" POS="NN" lemma="Milch" silb="Milch" morph="Milch">Milch</sm>
+</NC><x/>
+<PC>
+<kleineswort>bei</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Mutter" silb="Mut-ter" morph="Mutter">Mutter</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="14">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Mutter" silb="Mut-ter" morph="Mutter">Mutter</smmark>
+</NC><x/>
+<VC>
+<langw><wort POS="VVFIN" lemma="verlassen" silb="ver-lässt" morph="ver-läss-t">verlässt</wort></langw>
+</VC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<sm akzsilb="LV" graphem="ie" POS="PDAT" lemma="dies" silb="die-ser" morph="dies-er">dieser</sm><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Zeit" silb="Zeit" morph="Zeit">Zeit</sm>
+</PC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="NN" lemma="Höhle" silb="Höh-le" morph="Höhle">Höhle</sm></merkw>
+</NC><x/>
+<NC>
+<kleineswort>kein</kleineswort><x/>
+<langw><sm akzsilb="KV" graphem="diphthKC" POS="ADJA" lemma="einzig" silb="ein-zi-ges" morph="ein-zig-es">einziges</sm></langw><x/>
+<kleineswort>Mal</kleineswort>
+</NC>.
+</satz><x/>
+
+<satz nr="15">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="KC" POS="VVFIN" lemma="leben" lemma_akzsilb="LV" lemma_graphem="V" silb="lebt" morph="leb-t">lebt</sm>
+</VC><x/>
+<PC>
+<kleineswort>von</kleineswort><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="PPOSAT" lemma="ihr" silb="ih-rem" morph="ihr-em">ihrem</sm></merkw><x/>
+<klusterw><smmark akzsilb="KV" graphem="ck" POS="NN" lemma="Speck" silb="Speck" morph="Speck" kluster="Sp-eck">Speck</smmark></klusterw>
+</PC>.
+</satz><x/>
+
+<satz nr="16">
+<PC>
+<kleineswort>Im</kleineswort><x/>
+<langw><klusterw><merkw graphem="dehn-h"><wort POS="NN" lemma="Frühjahr" silb="Früh-jahr" morph="Früh-jahr" kluster="Fr-ühjahr">Frühjahr</wort></merkw></klusterw></langw>
+</PC><x/>
+<VC>
+<langw><wort POS="VVFIN" lemma="wandern" lemma_akzsilb="KV" lemma_graphem="KC" silb="wan-dert" morph="wander-t">wandert</wort></langw>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="unknown" silb="Bä-rin" morph="Bärin">Bärin</sm>
+</NC><x/>
+<PC>
+<kleineswort>mit</kleineswort><x/>
+<kleineswort>ihren</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</PC><x/>
+<PC>
+<kleineswort>zum</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="17">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="müssen" silb="muss" morph="muss">muss</smmark>
+</VC><x/>
+<kleineswort>nun</kleineswort><x/>
+<langw><wort POS="ADV" lemma="endlich" silb="end-lich" morph="endlich">endlich</wort></langw><x/>
+<kleineswort>wieder</kleineswort><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="fressen" silb="fres-sen" morph="fress-en" kluster="fr-essen">fressen</smmark></klusterw></langw>
+</VC>.
+</satz><x/>
+
+<satz nr="18">
+<kleineswort>Bis</kleineswort><x/>
+<PC>
+<kleineswort>zum</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Sommer" silb="Som-mer" morph="Sommer">Sommer</smmark>
+</PC><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="ch" POS="VVFIN" lemma="brauchen" silb="braucht" morph="brauch-t" kluster="br-aucht">braucht</smmark></klusterw></langw>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<PC>
+<sm akzsilb="LV" graphem="diphthong" POS="ADJA" lemma="neu" silb="neu-en" morph="neu-en">neuen</sm><x/>
+<klusterw><smmark akzsilb="KV" graphem="ck" POS="NN" lemma="Speck" silb="Speck" morph="Speck" kluster="Sp-eck">Speck</smmark></klusterw><x/>–
+</PC><x/>
+<PC>
+<kleineswort>für</kleineswort><x/>
+<kleineswort>sich</kleineswort>
+</PC><x/>
+<kleineswort>und</kleineswort><x/>
+<PC>
+<kleineswort>für</kleineswort><x/>
+<kleineswort>die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="19">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="wollen" silb="wol-len" morph="woll-en">wollen</smmark>
+</VC><x/>
+<kleineswort>noch</kleineswort><x/>
+<NC>
+<smmark akzsilb="KV" graphem="ng" POS="ADV" lemma="lange" silb="lan-ge" morph="lang-e">lange</smmark><x/>
+<sm akzsilb="KV" graphem="Kch" POS="NN" lemma="Milch" silb="Milch" morph="Milch">Milch</sm>
+</NC><x/>
+<PC>
+<kleineswort>bei</kleineswort><x/>
+<kleineswort>ihr</kleineswort>
+</PC><x/>
+<VC>
+<langw><klusterw><sm akzsilb="KV" graphem="KC" POS="VVINF" lemma="trinken" silb="trin-ken" morph="trink-en" kluster="tr-inken">trinken</sm></klusterw></langw>
+</VC>.
+</satz><x/>
+
+<satz nr="20">
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<langw><merkw graphem="dehn-h"><wort POS="VVFIN" lemma="ernähren" silb="er-näh-ren" morph="er-nähr-en">ernähren</wort></merkw></langw>
+</VC><x/>
+<NC>
+<kleineswort>sich</kleineswort>
+</NC><x/>
+<PC>
+<kleineswort>vor</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="PIS" lemma="alle" silb="al-lem" morph="all-em">allem</smmark>
+</PC><x/>
+<PC>
+<kleineswort>von</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="21">
+<NC>
+<kleineswort>Es</kleineswort>
+</NC><x/>
+<VC>
+<kleineswort>ist</kleineswort>
+</VC><x/>
+<sm akzsilb="LV" graphem="V" POS="ADV" lemma="gar" silb="gar" morph="gar">gar</sm><x/>
+<kleineswort>nicht</kleineswort><x/>
+<langw><wort POS="ADJD" lemma="einfach" silb="ein-fach" morph="ein-fach">einfach</wort></langw><x/>
+<NC>
+<sm akzsilb="LV" graphem="diphthong" POS="ART" lemma="eine" silb="ei-ne" morph="ein-e">eine</sm><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-be" morph="Robbe">Robbe</smmark>
+</NC><x/>
+<VC>
+<kleineswort>zu</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="VVINF" lemma="fangen" silb="fan-gen" morph="fang-en">fangen</smmark>
+</VC>.
+</satz><x/>
+
+<satz nr="22">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="unknown" silb="Bä-rin" morph="Bärin">Bärin</sm>
+</NC><x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VVFIN" lemma="warten" silb="war-tet" morph="wartet">wartet</sm>
+</VC><x/>
+<kleineswort>oft</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="ADV" lemma="lange" silb="lan-ge" morph="lang-e">lange</smmark><x/>
+<PC>
+<kleineswort>vor</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="ART" lemma="eine" silb="ei-nem" morph="ein-em">einem</sm><x/>
+<langw><wort POS="NN" lemma="Eisloch" silb="Eis-loch" morph="Eis-loch">Eisloch</wort></langw>
+</PC>.
+</satz><x/>
+
+<satz nr="23">
+<kleineswort>Dort</kleineswort><x/>
+<VC fkt="kloe">
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="schwimmen" silb="schwim-men" morph="schwimm-en" kluster="schw-immen">schwimmen</smmark></klusterw></langw>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC><x/>
+<VC fkt="klschl">
+<kleineswort>hin</kleineswort>
+</VC>,<x/>
+<kleineswort>um</kleineswort><x/>
+<NC>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Luft" silb="Luft" morph="Luft">Luft</sm>
+</NC><x/>
+<VC>
+<kleineswort>zu</kleineswort>
+</VC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVFIN" lemma="holen" silb="ho-len" morph="hol-en">holen</sm>
+</VC>.
+</satz><x/>
+
+<satz nr="24">
+<PC>
+<kleineswort>Im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Sommer" silb="Som-mer" morph="Sommer">Sommer</smmark>
+</PC><x/>
+<VC fkt="kloe">
+<sm akzsilb="LV" graphem="diphthong" POS="VVFIN" lemma="tauen" silb="taut" morph="tau-t">taut</sm>
+</VC><x/>
+<NC>
+<kleineswort>das</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</NC><x/>
+<PC>
+<kleineswort>an</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Küste" silb="Küs-te" morph="Küste">Küste</sm>
+</PC><x/>
+<VC fkt="klschl">
+<kleineswort>auf</kleineswort>
+</VC>.
+</satz><x/>
+
+<satz nr="25">
+<NC>
+<kleineswort>Das</kleineswort>
+</NC><x/>
+<VC>
+<langw><wort POS="VVFIN" lemma="geschehen" silb="ge-schieht" morph="ge-schieht">geschieht</wort></langw>
+</VC><x/>
+<smmark akzsilb="KV" graphem="CC" POS="ADV" lemma="immer" silb="im-mer" morph="immer">immer</smmark><x/>
+<klusterw><sm akzsilb="LV" graphem="ini-h" POS="ADV" lemma="früher" silb="frü-her" morph="früh-er" kluster="fr-üher">früher</sm></klusterw><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<merkw graphem="dehn-h"><wort POS="NN" lemma="Jahr" silb="Jahr" morph="Jahr">Jahr</wort></merkw>
+</PC>.
+</satz><x/>
+
+<satz nr="26">
+<PC>
+<kleineswort>Auf</kleineswort><x/>
+<kleineswort>der</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Erde" silb="Er-de" morph="Er-de">Erde</sm>
+</PC><x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VAFIN" lemma="werden" silb="wird" morph="wird">wird</sm>
+</VC><x/>
+<NC>
+<kleineswort>es</kleineswort>
+</NC><x/>
+<smmark akzsilb="KV" graphem="CC" POS="ADV" lemma="immer" silb="im-mer" morph="immer">immer</smmark><x/>
+<sm akzsilb="KV" graphem="Vr" POS="ADJD" lemma="warm" silb="wär-mer" morph="wärm-er">wärmer</sm>.
+</satz><x/>
+
+<satz nr="27">
+<PC>
+<kleineswort>Für</kleineswort><x/>
+<kleineswort>die</kleineswort><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</PC><x/>
+<VC>
+<kleineswort>ist</kleineswort>
+</VC><x/>
+<NC>
+<kleineswort>das</kleineswort>
+</NC><x/>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="ADJD" lemma="schlimm" silb="schlimm" morph="schlimm" kluster="schl-imm">schlimm</smmark></klusterw></langw>:
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="können" silb="kön-nen" morph="könn-en">können</smmark>
+</VC><x/>
+<NC>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC><x/>
+<kleineswort>nur</kleineswort><x/>
+<PC>
+<kleineswort>auf</kleineswort><x/>
+<kleineswort>dem</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="ng" POS="VVINF" lemma="fangen" silb="fan-gen" morph="fang-en">fangen</smmark>
+</VC>.
+</satz><x/>
+
+<satz nr="28">
+<kleineswort>Warum</kleineswort><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="können" silb="kön-nen" morph="könn-en">können</smmark>
+</VC><x/>
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC><x/>
+<kleineswort>nicht</kleineswort><x/>
+<kleineswort>auch</kleineswort><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Wasser" silb="Was-ser" morph="Wasser">Wasser</smmark>
+</PC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="ng" POS="VVINF" lemma="fangen" silb="fan-gen" morph="fang-en">fangen</smmark>
+</VC>?
+</satz><x/>
+
+<satz nr="29">
+<NC>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<kleineswort>sind</kleineswort>
+</VC><x/>
+<NC>
+<sm akzsilb="LV" graphem="V" POS="ADJA" lemma="gut" silb="gu-te" morph="gut-e">gute</sm><x/>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Schwimmer" silb="Schwim-mer" morph="Schwimm-er" kluster="Schw-immer">Schwimmer</smmark></klusterw></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="30">
+<sm akzsilb="LV" graphem="V" POS="KON" lemma="aber" silb="Aber" morph="Ab-er">Aber</sm><x/>
+<NC>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC><x/>
+<VC>
+<kleineswort>sind</kleineswort>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Wasser" silb="Was-ser" morph="Wasser">Wasser</smmark>
+</PC><x/>
+<NC>
+<kleineswort>viel</kleineswort><x/>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="ADJA" lemma="schnell" silb="schnel-ler" morph="schnell-er" kluster="schn-eller">schneller</smmark></klusterw></langw><x/>
+<kleineswort>und</kleineswort><x/>
+<langw><sm akzsilb="KV" graphem="KC" POS="ADJA" lemma="wendig" silb="wen-di-gen" morph="wend-ig-en">wendigen</sm></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="31">
+<NC>
+<sm akzsilb="KV" graphem="Kch" POS="PIAT" lemma="manche" silb="Man-che" morph="Manche">Manche</sm><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="schwimmen" silb="schwim-men" morph="schwimm-en" kluster="schw-immen">schwimmen</smmark></klusterw></langw>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Sommer" silb="Som-mer" morph="Sommer">Sommer</smmark>
+</PC><x/>
+<PC>
+<kleineswort>zum</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="ADJD" lemma="weit" silb="weit" morph="weit">weit</sm><x/>
+<langw><wort POS="ADJA" lemma="entfernt" silb="ent-fern-ten" morph="ent-fern-t-en">entfernten</wort></langw><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC>
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</NC><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="schaffen" silb="schaf-fen" morph="schaff-en" kluster="sch-affen">schaffen</smmark></klusterw></langw>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="ADJA" lemma="weit" silb="wei-te" morph="weit-e">weite</sm><x/>
+<langw><klusterw><smmark akzsilb="KV" graphem="ck" POS="NN" lemma="Strecke" silb="Stre-cke" morph="Streck-e" kluster="Str-ecke">Strecke</smmark></klusterw></langw>
+</NC><x/>
+<kleineswort>oft</kleineswort><x/>
+<kleineswort>nicht</kleineswort>.
+</satz><x/>
+
+<satz nr="32">
+<kleineswort>Auch</kleineswort><x/>
+<NC>
+<klusterw><sm akzsilb="LV" graphem="V" POS="ADJA" lemma="groß" silb="gro-ße" morph="groß-e" kluster="gr-oße">große</sm></klusterw><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<kleineswort>sind</kleineswort>
+</VC><x/>
+<kleineswort>schon</kleineswort><x/>
+<PC>
+<kleineswort>bei</kleineswort><x/>
+<klusterw><sm akzsilb="KV" graphem="Vr" POS="NE" lemma="Sturm" silb="Sturm" morph="Sturm" kluster="St-urm">Sturm</sm></klusterw>
+</PC><x/>
+<VC>
+<langw><wort POS="VVPP" lemma="ertrinken" silb="er-trun-ken" morph="er-trunk-en">ertrunken</wort></langw>
+</VC>.
+</satz><x/>
+
+<satz nr="33">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<langw><sm akzsilb="KV" graphem="diphthKC" POS="PIAT" lemma="meist" silb="meis-ten" morph="meist-en">meisten</sm></langw><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="ch" POS="VVFIN" lemma="suchen" silb="su-chen" morph="such-en">suchen</sm>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Sommer" silb="Som-mer" morph="Sommer">Sommer</smmark>
+</PC><x/>
+<NC>
+<kleineswort>ihre</kleineswort><x/>
+<langw><merkw graphem="dehn-h"><wort POS="NN" lemma="Nahrung" silb="Nah-rung" morph="Nahr-ung">Nahrung</wort></merkw></langw>
+</NC><x/>
+<PC>
+<kleineswort>an</kleineswort><x/>
+<sm akzsilb="KV" graphem="KC" POS="NN" lemma="Land" silb="Land" morph="Land">Land</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="34">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="fressen" silb="fres-sen" morph="fress-en" kluster="fr-essen">fressen</smmark></klusterw></langw>
+</VC><x/>
+<NC>
+<klusterw><sm akzsilb="LV" graphem="diphthong" POS="ADJA" lemma="klein" silb="klei-ne" morph="klein-e" kluster="kl-eine">kleine</sm></klusterw><x/>
+<sm akzsilb="LV" graphem="ie" POS="NN" lemma="Tier" silb="Tie-re" morph="Tier-e">Tiere</sm>
+</NC>,<x/>
+<NC>
+<sm akzsilb="LV" graphem="ie" POS="NN" lemma="Ei" silb="Ei-er" morph="Ei-er">Eier</sm>
+</NC><x/>
+<kleineswort>und</kleineswort><x/>
+<NC>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Beere" silb="Bee-ren" morph="Beere-n">Beeren</wort></merkw>
+</NC>.
+</satz><x/>
+
+<satz nr="35">
+<merkw graphem="vogel-v"><wort POS="PAV" lemma="davon" silb="Da-von" morph="Davon">Davon</wort></merkw><x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VAFIN" lemma="werden" silb="wer-den" morph="werd-en">werden</sm>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<sm akzsilb="LV" graphem="V" POS="ADV" lemma="aber" silb="aber" morph="ab-er">aber</sm><x/>
+<kleineswort>nicht</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="ADJD" lemma="satt" silb="satt" morph="satt">satt</smmark>.
+</satz><x/>
+
+<satz nr="36">
+<NC>
+<langw><wort POS="PIAT" lemma="einige" silb="Ei-ni-ge" morph="Ein-ig-e">Einige</wort></langw><x/>
+<langw><wort POS="NN" lemma="Monat" silb="Mo-na-te" morph="Monat-e">Monate</wort></langw>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="können" silb="kön-nen" morph="könn-en">können</smmark>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<PC>
+<kleineswort>von</kleineswort><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="PPOSAT" lemma="ihr" silb="ih-rem" morph="ihr-em">ihrem</sm></merkw><x/>
+<klusterw><smmark akzsilb="KV" graphem="ck" POS="NN" lemma="Speck" silb="Speck" morph="Speck" kluster="Sp-eck">Speck</smmark></klusterw>
+</PC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVINF" lemma="leben" silb="le-ben" morph="leb-en">leben</sm>
+</VC>.
+</satz><x/>
+
+<satz nr="37">
+<kleineswort>Dann</kleineswort><x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VAFIN" lemma="werden" silb="wer-den" morph="werd-en">werden</sm>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<smmark akzsilb="KV" graphem="CC" POS="ADV" lemma="immer" silb="im-mer" morph="immer">immer</smmark><x/>
+<langw><smmark akzsilb="KV" graphem="ng" POS="ADJD" lemma="hungrig" silb="hun-gri-ger" morph="hung-rig-er">hungriger</smmark></langw>.
+</satz><x/>
+
+<satz nr="38">
+<NC>
+<langw><sm akzsilb="LV" graphem="V" POS="ADJA" lemma="mutig" silb="Mu-ti-ge" morph="Mut-ig-e">Mutige</sm></langw><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="Bär" silb="Bä-ren" morph="Bär-en">Bären</sm>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="ch" POS="VVFIN" lemma="suchen" silb="su-chen" morph="such-en">suchen</sm>
+</VC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<kleineswort>den</kleineswort><x/>
+<langw><sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Dorf" silb="Dör-fern" morph="Dörf-er-n">Dörfern</sm></langw>
+</PC><x/>
+<PC>
+<kleineswort>nach</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Futter" silb="Fut-ter" morph="Futter">Futter</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="39">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="VVFIN" lemma="wühlen" silb="wüh-len" morph="wühl-en">wühlen</sm></merkw>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Müll" silb="Müll" morph="Müll">Müll</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="40">
+<NC>
+<kleineswort>Sie</kleineswort>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VVFIN" lemma="kommen" silb="kom-men" morph="komm-en">kommen</smmark>
+</VC><x/>
+<PC>
+<kleineswort>bis</kleineswort>
+</PC><x/>
+<PC>
+<kleineswort>zu</kleineswort><x/>
+<kleineswort>den</kleineswort><x/>
+<langw><sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Haus" silb="Häu-sern" morph="Häus-er-n">Häusern</sm></langw>
+</PC>.
+</satz><x/>
+
+<satz nr="41">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<langw><sm akzsilb="KV" graphem="Ksch" POS="NN" lemma="Mensch" silb="Men-schen" morph="Mensch-en">Menschen</sm></langw>
+</NC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VAFIN" lemma="haben" silb="ha-ben" morph="hab-en">haben</sm>
+</VC><x/>
+<NC>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Angst" silb="Angst" morph="Angst">Angst</smmark>
+</NC><x/>
+<PC>
+<kleineswort>vor</kleineswort><x/>
+<kleineswort>ihnen</kleineswort>
+</PC>.
+</satz><x/>
+
+<satz nr="42">
+<PC>
+<kleineswort>In</kleineswort><x/>
+<langw><wort POS="PIAT" lemma="einige" silb="ei-ni-gen" morph="ein-ig-en">einigen</wort></langw><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Ort|Orten" silb="Or-ten" morph="Ort-en">Orten</sm>
+</PC><x/>
+<VC>
+<sm akzsilb="LV" graphem="KC" POS="VVFIN" lemma="geben" lemma_akzsilb="LV" lemma_graphem="V" silb="gibt" morph="gib-t">gibt</sm>
+</VC><x/>
+<NC>
+<kleineswort>es</kleineswort>
+</NC><x/>
+<NC>
+<sm akzsilb="LV" graphem="diphthong" POS="ART" lemma="eine" silb="ei-ne" morph="ein-e">eine</sm><x/>
+<langw><smmark akzsilb="KV" graphem="ch" POS="ADJA" lemma="richtig" silb="rich-ti-ge" morph="richt-ig-e">richtige</smmark></langw><x/>
+<langw><wort POS="NN" lemma="unknown" silb="Eis-bär-Po-li-zei" morph="Eis-bär-Polizei">Eisbär-Polizei</wort></langw>
+</NC>.
+</satz><x/>
+
+<satz nr="43">
+<NC>
+<langw><wort POS="NN" lemma="Polizist" silb="Po-li-zis-ten" morph="Poliz-ist-en">Polizisten</wort></langw>
+</NC><x/>
+<VC fkt="kloe">
+<smmark akzsilb="KV" graphem="ng" POS="VVINF" lemma="fangen" silb="fan-gen" morph="fang-en">fangen</smmark>
+</VC><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<langw><wort POS="NN" lemma="Eisbär" silb="Eis-bä-ren" morph="Eis-bär-en">Eisbären</wort></langw>
+</NC><x/>
+<VC fkt="klschl">
+<kleineswort>ein</kleineswort>
+</VC><x/>
+<kleineswort>und</kleineswort><x/>
+<VC>
+<langw><klusterw><smmark akzsilb="KV" graphem="ck" POS="VVFIN" lemma="stecken" silb="ste-cken" morph="steck-en" kluster="st-ecken">stecken</smmark></klusterw></langw>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<PC>
+<kleineswort>in</kleineswort><x/>
+<langw><sm akzsilb="LV" graphem="V" POS="NN" lemma="Käfig" silb="Kä-fi-ge" morph="Käfig-e">Käfige</sm></langw>
+</PC>.
+</satz><x/>
+
+<satz nr="44">
+<kleineswort>Wenn</kleineswort><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Herbst" silb="Herbst" morph="Herbst">Herbst</sm>
+</PC><x/>
+<NC>
+<kleineswort>das</kleineswort><x/>
+<merkw graphem="vokdopp"><wort POS="NN" lemma="Meer" silb="Meer" morph="Meer">Meer</wort></merkw>
+</NC><x/>
+<kleineswort>wieder</kleineswort><x/>
+<VC>
+<langw><wort POS="VVFIN" lemma="zufrieren" silb="zu-friert" morph="zu-frier-t">zufriert</wort></langw>
+</VC>,<x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VAFIN" lemma="werden" silb="wer-den" morph="werd-en">werden</sm>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<PC>
+<kleineswort>auf</kleineswort><x/>
+<kleineswort>das</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC><x/>
+<VC>
+<langw><sm akzsilb="KV" graphem="KC" POS="VVPP" lemma="fliegen" lemma_akzsilb="LV" lemma_graphem="ie" silb="ge-flo-gen" morph="ge-flog-en">geflogen</sm></langw>
+</VC>.
+</satz><x/>
+
+<satz nr="45">
+<kleineswort>Auch</kleineswort><x/>
+<NC>
+<kleineswort>die</kleineswort><x/>
+<sm akzsilb="LV" graphem="V" POS="NN" lemma="unknown" silb="Bä-rin" morph="Bärin">Bärin</sm>
+</NC><x/>
+<VC>
+<langw><wort POS="VVFIN" lemma="wandern" lemma_akzsilb="KV" lemma_graphem="KC" silb="wan-dert" morph="wander-t">wandert</wort></langw>
+</VC><x/>
+<PC>
+<kleineswort>im</kleineswort><x/>
+<sm akzsilb="KV" graphem="Vr" POS="NN" lemma="Herbst" silb="Herbst" morph="Herbst">Herbst</sm>
+</PC><x/>
+<PC>
+<kleineswort>mit</kleineswort><x/>
+<kleineswort>ihren</kleineswort><x/>
+<smmark akzsilb="KV" graphem="ng" POS="NN" lemma="Junge" silb="Jun-gen" morph="Jung-en">Jungen</smmark>
+</PC><x/>
+<PC>
+<kleineswort>zum</kleineswort><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Eis" silb="Eis" morph="Eis">Eis</sm>
+</PC>.
+</satz><x/>
+
+<satz nr="46">
+<kleineswort>Dort</kleineswort><x/>
+<VC>
+<kleineswort>kann</kleineswort>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<langw><wort POS="ADV" lemma="endlich" silb="end-lich" morph="endlich">endlich</wort></langw><x/>
+<kleineswort>wieder</kleineswort><x/>
+<NC>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Robbe" silb="Rob-ben" morph="Robbe-n">Robben</smmark>
+</NC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="ng" POS="VVINF" lemma="fangen" silb="fan-gen" morph="fang-en">fangen</smmark>
+</VC>.
+</satz><x/>
+
+<satz nr="47">
+<NC>
+<kleineswort>Die</kleineswort><x/>
+<langw><wort POS="NN" lemma="Bärenkind" silb="Bä-ren-kin-der" morph="Bär-en-kind-er">Bärenkinder</wort></langw>
+</NC><x/>
+<VC>
+<langw><klusterw><sm akzsilb="LV" graphem="diphthong" POS="VVFIN" lemma="bleiben" silb="blei-ben" morph="bleib-en" kluster="bl-eiben">bleiben</sm></klusterw></langw>
+</VC><x/>
+<kleineswort>noch</kleineswort><x/>
+<NC>
+<kleineswort>ein</kleineswort>
+</NC><x/>
+<PC>
+<kleineswort>bis</kleineswort><x/>
+<klusterw><sm akzsilb="LV" graphem="diphthong" POS="CARD" lemma="zwei" silb="zwei" morph="zwei" kluster="zw-ei">zwei</sm></klusterw><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="NN" lemma="Jahr" silb="Jah-re" morph="Jahr-e">Jahre</sm></merkw>
+</PC><x/>
+<PC>
+<kleineswort>bei</kleineswort><x/>
+<merkw graphem="dehn-h"><sm akzsilb="LV" graphem="V" POS="PPOSAT" lemma="ihr" silb="ih-rer" morph="ihr-er">ihrer</sm></merkw><x/>
+<smmark akzsilb="KV" graphem="CC" POS="NN" lemma="Mutter" silb="Mut-ter" morph="Mutter">Mutter</smmark>
+</PC>.
+</satz><x/>
+
+<satz nr="48">
+<PC>
+<kleineswort>In</kleineswort><x/>
+<sm akzsilb="LV" graphem="ie" POS="PDAT" lemma="dies" silb="die-ser" morph="dies-er">dieser</sm><x/>
+<sm akzsilb="LV" graphem="diphthong" POS="NN" lemma="Zeit" silb="Zeit" morph="Zeit">Zeit</sm>
+</PC><x/>
+<VC>
+<smmark akzsilb="KV" graphem="CC" POS="VMFIN" lemma="müssen" silb="müs-sen" morph="müss-en">müssen</smmark>
+</VC><x/>
+<NC>
+<kleineswort>sie</kleineswort>
+</NC><x/>
+<VC>
+<sm akzsilb="KV" graphem="Vr" POS="VVINF" lemma="lernen" silb="ler-nen" morph="lern-en">lernen</sm>
+</VC>,<x/>
+<sm akzsilb="KV" graphem="KC" POS="ADV" lemma="selbst" silb="selbst" morph="selbst">selbst</sm><x/>
+<VC>
+<kleineswort>zu</kleineswort>
+</VC><x/>
+<VC>
+<sm akzsilb="LV" graphem="V" POS="VVFIN" lemma="jagen" silb="ja-gen" morph="jag-en">jagen</sm>
+</VC>.
+</satz>
+</text>

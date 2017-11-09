@@ -1,0 +1,18 @@
+    <img id='earth' [src]='earth'/>
+    <img [ngClass] = "{ 
+                        'no-spaceship' : planetNumber == undefined, 
+                        'fly1' : planetNumber == 1,
+                        'fly2' : planetNumber == 2,
+                        'fly3' : planetNumber == 3,
+                        'fly4' : planetNumber == 4,
+                        'fly5' : planetNumber == 5,
+                        'spaceship' : planetNumber <= 5}" [src]='spaceship'/>
+    <img id='planet2' class="grow" (click)="choosePlanet(1)" [src]='planet2'/>
+    <img id='planet3' [ngClass]="{'grow': planetNumber >= 2, 'not_opened': planetNumber < 2}" (click)="choosePlanet(2)" [src]='planet3'/>
+    <img id='planet4' [ngClass]="{'grow': planetNumber >= 3, 'not_opened': planetNumber < 3}" (click)="choosePlanet(3)" [src]='planet4'/>
+    <img id='planet5' [ngClass]="{'grow': planetNumber >= 4, 'not_opened': planetNumber < 4}" (click)="choosePlanet(4)" [src]='planet5'/>
+    <img id='planet10' [ngClass]="{'grow': planetNumber >= 5, 'not_opened': planetNumber < 5}" (click)="chooseResults()" [src]='planet10'/>
+    <img id='background' [src]="backgroundImg"/>
+
+
+    

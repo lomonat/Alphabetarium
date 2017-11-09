@@ -1,0 +1,11 @@
+<div id="title">
+  <p>{{title}}</p>
+</div>
+
+<div id="fill-app" *ngFor="let i of SIZE;"  >
+  <ng-container  *ngFor="let text of texts[i]; let j = index">
+    {{text}}<input class="wordsForInput" [ngClass]="colors[i][j]" *ngIf="j !== texts[i].length-1" type="text" [disabled]="current[0] != i || current[1] != j"
+                   id="{{i}}_{{j}}" (click)="modifyWord($event)"
+                   [(ngModel)]="model[i][j]">
+  </ng-container>
+</div>

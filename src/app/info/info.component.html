@@ -1,0 +1,15 @@
+<div id="mainDiv">
+    <div id="left">
+        <img class="grow" id="back" [src]='back' title="Zur vorherige Aufgabe" (click)="goBack()"/>
+        <img class='grow' id='ufo'  [src]='ufo' title="Anleitung" (click)="introInfo()"/>
+        <img class='grow' id='spaceship' [src] ='spaceship' title="Zum Planeten" (click)='toPlanets()'/>
+        <img id='background' [src]='myPathToImage + planetNumber + imageExt' />
+    </div>
+
+    <div id="right">
+    <div  id="scoreAndMute">
+        <span id="score">Punkte {{score}}</span>
+        <img class="grow" id="mute" [src]='mute' title="Ton" (click)="muteF()"/>
+    </div>
+</div>
+</div>

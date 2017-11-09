@@ -1,0 +1,37 @@
+<div class="form-bg">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <form>
+          <h1 class="heading">{{failed}}</h1>
+          <div class="form-group">
+            <label class="control-label">E-Mail</label>
+            <input type="text" class="form-control" id="name"
+                   required [(ngModel)]="model.user_email" name="name">
+          </div>
+
+          <div class="form-group">
+            <label class="control-label" for="name">Name</label>
+            <input type="text" class="form-control"
+                   required [(ngModel)]="model.client" name="name">
+          </div>
+
+          <div class="form-group">
+            <label class="control-label" for="modus">Modus</label>
+            <select class="form-control" id="modus"
+                    required
+                    [(ngModel)]="model.mode" name="modus">
+              <option *ngFor="let m of modus" [value]="m">{{m}}</option>
+            </select>
+          </div>
+          <button type="submit" class="btn btn-default" (click)="onPost()">Submit<i class="fa fa-arrow-circle-right fa-2x"></i></button>
+
+         <!-- <p>
+            {{diagnostic}}
+          </p> -->
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+

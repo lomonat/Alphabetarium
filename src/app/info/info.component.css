@@ -1,0 +1,69 @@
+#back {
+  height:100%;
+}
+
+#ufo {
+  height:100%;
+}
+
+#spaceship {
+  height:100%;
+}
+
+#mute {
+  height:100%;
+  display: table-cell;
+}
+
+#background {
+  width:100%;
+  height: 105%;
+  min-width:100%;
+  max-width:100%;
+  position:absolute;
+  z-index:-10;
+  padding:0;
+  margin:0;
+  top:0;
+  left:0;
+  background-color: #0B2349;
+}
+
+.grow {
+  -webkit-transition:all 1s ease;
+  transition: all 1s ease;
+}
+
+.grow:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+#score {
+  font-size:30px;
+  color: yellow;
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: Arial;
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: 20px;
+}
+
+#right {
+  float: right;
+}
+
+#scoreAndMute {
+  height: 50px;
+  display: table;
+}
+
+#mainDiv {
+  width: 97%;
+}
+
+#left {
+  float: left;
+  height: 50px;
+}

@@ -1,0 +1,128 @@
+#tableWithContent {
+  border-collapse: collapse;
+}
+
+#divCheck {
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#fill-app {
+  background-color: white;
+  font-family: Arial;
+  line-height: 1.8;
+  font-size: 17px;
+  display: table-cell;
+  padding: 30px;
+  text-align: left;
+}
+
+input {
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid black;
+}
+
+input:active {
+  background: transparent;
+}
+
+input:disabled {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+.magenta {
+  color: darkred;
+}
+
+.violet {
+  color: darkorchid;
+}
+
+.darkViolet {
+  color: darkviolet;
+}
+
+.blue {
+  color: #00d3bf;
+}
+
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+input:focus::-moz-placeholder {
+  color: transparent;
+}
+
+input:focus:-ms-input-placeholder {
+  color: transparent;
+}
+
+input:focus::placeholder {
+  color: transparent;
+}
+
+.magenta::-webkit-input-placeholder {
+  color: darkred;
+}
+
+.darkViolet::-webkit-input-placeholder {
+  /* FF 19+ */
+  color: darkviolet;
+}
+
+.blue::-webkit-input-placeholder {
+  /* IE 10+ */
+  color: #00d3bf;
+}
+
+.violet::-webkit-input-placeholder {
+  /* IE 10+ */
+  color: darkorchid;
+}
+
+#title {
+  position: relative;
+  left: 17%;
+  top: 20px;
+  font-size:19px;
+  /**border: dashed;**/
+  height: 20px;
+  width: 20%;
+  font-weight: bold;
+}
+
+#fill-app-2 {
+  display: table-cell;
+  padding: 30px;
+  text-align: left;
+
+}
+
+.wordsForInput{
+  width: 20%;
+}
+
+.content {
+  font-size:17px;
+  background-color: white;
+  font-family: Arial;
+  line-height: 1.8;
+}

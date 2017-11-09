@@ -1,0 +1,25 @@
+<img class='grow' id='spaceship' [src] ='spaceship' title="Zum Planeten"  (click)='toPlanets()'/>
+<div><img id="background" [src]='bck'/>
+<h1>Ergebnisse</h1>
+  <table class="table" id="myTable" class="table">
+  <thead>
+  <tr>
+    <th></th>
+    <th>Aufgabe 1</th>
+    <th>Aufgabe 2</th>
+    <th>Aufgabe 3</th>
+    <th>Aufgabe 4</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let row of buildArr(result_table); let i = index">
+    <td *ngFor="let part of parts">Spiel {{i +1}}</td>
+    <td *ngFor="let item of row">
+      {{item == '-' ? '' : item + '%'}}
+      <span *ngIf="item > 70"><img class="edward" [src] ='edward'/></span>
+      <span *ngIf="item > 90"><img  class="edward" [src] ='edward'/></span>
+    </td>
+  </tr>
+  </tbody>
+ </table>
+</div>

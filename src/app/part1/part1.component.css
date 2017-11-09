@@ -1,0 +1,99 @@
+table {
+  border-spacing:0;
+  text-align:center;
+  padding: 0;
+  margin: 0;
+}
+
+table td:nth-child(-n+4) input.resizedTextbox_2 {
+  background-color: lightgrey;
+}
+
+table td:nth-child(2) {
+  background-color: red;
+}
+
+table td:nth-child(5) {
+  background-color: red;
+}
+
+td:nth-child(3) {
+  border-spacing: 50px 50px;
+}
+
+table tr th:nth-child(3),
+table tr td:nth-child(3) {
+  padding-right:30px;
+}
+
+table tr th:nth-child(3):after {
+  width:10px;
+}
+
+#triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 95px 60px 95px; /*менять 2 и 4 значение - ширина*/
+  border-color: transparent transparent #55d9fa transparent;
+}
+
+.resizedTextbox {
+  width: 55px;
+  height: 25px;
+  text-align:center;
+  font-size:24px;
+  font-family: Arial;
+}
+
+.resizedTextbox_2 {
+  width: 55px;
+  height: 25px;
+  text-align:center;
+  font-size:24px;
+  font-family: Arial;
+  color: blue;
+
+}
+
+#content {
+  margin: auto;
+}
+
+table tr {
+  text-align: center;
+}
+
+#words {
+  text-align: left;
+  font-size:28px;
+  font-family: Arial;
+  margin-right: 20px;
+  padding-right: 10%;
+}
+
+#background {
+  width:100%;
+  height: 100%;
+  min-width:100%;
+  max-width:100%;
+  position:absolute;
+  z-index:-10;
+  padding:0;
+  margin:0;
+  top:0;
+  left:0;
+}
+
+#items{
+  position: relative;
+  left: 15%;
+}
+
+#info {
+  width: 100%;
+}
+
+#forSubmit {
+  background-color: transparent;
+}

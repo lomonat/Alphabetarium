@@ -1,0 +1,24 @@
+  <table id="tableWithContent">
+    <tr>
+      <td>
+       <app-info-component [title]='title' [amount] = 'amount'></app-info-component>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class='content'>
+          <div *ngIf='available'>
+            <app-fill-in-blank  (scoringCompeteEvent)="returnScore($event)" [textline]='itemsSource' [fields]="wordsToCheck"
+                [wordsForInput]="wordsForInput" [newWordsForInput]="newWordsForInput" [planetNumber] = "planetNumber" [title]="title"></app-fill-in-blank>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div id="divCheck">
+          <app-check-component (exerciseSubmitEvent)="calculateScore($event)"></app-check-component>
+        </div>
+      </td>
+    </tr>
+  </table>

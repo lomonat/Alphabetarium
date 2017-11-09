@@ -1,0 +1,240 @@
+#background {
+  width:100%;
+  height: 100%;
+  min-width:100%;
+  max-width:100%;
+  position:absolute;
+  z-index:-10;
+  padding:0;
+  margin:0;
+  top:0;
+  left:0;
+}
+
+#earth {
+  width: 190px;
+  height: 160px;
+  position:absolute;
+  top: 60%;
+  left: 10%;
+}
+
+#planet2 {
+  width: 210px;
+  height: 195px;
+  position:absolute;
+  top: 25%;
+  left: 20%;
+}
+
+#planet3 {
+  width: 270px;
+  height: 180px;
+  position:absolute;
+  top: 48%;
+  left: 35%;
+}
+
+#planet4 {
+  width: 230px;
+  height: 200px;
+  position:absolute;
+  top: 25%;
+  left: 54%;
+}
+
+#planet5 {
+  width: 170px;
+  height: 160px;
+  position:absolute;
+  top: 60%;
+  left: 67%;
+}
+
+#planet10 {
+  width: 280px;
+  height: 180px;
+  position:absolute;
+  top:15%;
+  left: 80%;
+}
+
+.not_opened {
+  -webkit-filter: grayscale(85%);
+  filter: grayscale(85%);
+}
+
+.no-spaceship {
+  display: none;
+  position: absolute;
+}
+
+.spaceship {
+  width: 110px;
+  height: 60px;
+  -webkit-animation-duration: 5s;
+  animation-duration: 5s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  z-index: 999;
+}
+
+.fly1 {
+  position: absolute;
+  top:52%;
+  left:12%;
+  -webkit-animation-name: fly;
+  animation-name: fly1;
+}
+
+.fly2 {
+  position: absolute;
+  top:22%;
+  left:32%;
+  -webkit-animation-name: fly2;
+  animation-name: fly2;
+}
+
+.fly3 {
+  position: absolute;
+  top:42%;
+  left:42%;
+  -webkit-animation-name: fly3;
+  animation-name: fly3;
+}
+
+.fly4 {
+  position: absolute;
+  top:22%;
+  left:65%;
+  -webkit-animation-name: fly4;
+  animation-name: fly4;
+}
+
+.fly5 {
+  position: absolute;
+  top:52%;
+  left:75%;
+  -webkit-animation-name: fly5;
+  animation-name: fly5;
+}
+
+.grow {
+  -webkit-transition:all 1s ease;
+  transition: all 1s ease;
+}
+
+.grow:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+@-webkit-keyframes fly1 {
+  from {
+    top: 60%;
+    left: 10%;
+  }
+  to {
+    top: 25%;
+    left: 20%;
+  }
+}
+
+@keyframes fly1 {
+  from {
+    top: 60%;
+    left: 10%;
+  }
+  to {
+    top: 25%;
+    left: 20%;
+  }
+}
+
+@-webkit-keyframes fly2 {
+  from {
+    top: 25%;
+    left: 20%;
+  }
+  to {
+    top: 48%;
+    left: 35%;
+  }
+}
+
+@keyframes fly2 {
+  from {
+    top: 25%;
+    left: 20%;
+  }
+  to {
+    top: 48%;
+    left: 35%;
+  }
+}
+
+@-webkit-keyframes fly3 {
+  from {
+    top: 48%;
+    left: 35%;
+  }
+  to {
+    top: 25%;
+    left: 54%;
+  }
+}
+
+@keyframes fly3 {
+  from {
+    top: 48%;
+    left: 35%;
+  }
+  to {
+    top: 25%;
+    left: 54%;
+  }
+}
+
+@-webkit-keyframes fly4 {
+  from {
+    top: 25%;
+    left: 54%;
+  }
+  to {
+    top: 60%;
+    left: 67%;
+  }
+}
+
+@keyframes fly4 {
+  from {
+    top: 25%;
+    left: 54%;
+  }
+  to {
+    top: 60%;
+    left: 67%;
+  }
+}
+
+@-webkit-keyframes fly5 {
+  from {
+    top: 60%;
+    left: 67%;
+  }
+  to {
+    top: 15%;
+    left: 80%;
+  }
+}
+
+@keyframes fly5 {
+  from {
+    top: 60%;
+    left: 67%;
+  }
+  to {
+    top: 15%;
+    left: 80%;
+  }
+}

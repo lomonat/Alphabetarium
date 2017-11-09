@@ -1,0 +1,114 @@
+.form-bg:before{
+  content: "";
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: -webkit-linear-gradient(#2cd0cb,#a280c1);
+  background: linear-gradient(#2cd0cb,#a280c1);
+  opacity: 0.95;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=95)";
+}
+
+form{
+  margin: 5% 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+form .heading{
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: red;
+}
+
+form .form-group{
+  padding: 30px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 0 3px #bcb4b4;
+  position: relative;
+}
+
+form .control-label{
+  font-size: 18px;
+  color: #6e6179;
+  letter-spacing: 1px;
+}
+
+form .form-control{
+  height: 50px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #8f8597;
+  border-radius: 2px;
+  opacity: 0.8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+
+form .btn{
+  font-size: 17px;
+  font-weight: bold;
+  color: #fff;
+  background: #00d3bf;
+  text-transform: uppercase;
+  box-shadow: 0 0 8px 0 #a2a2a2;
+  border: none;
+  border-radius: 50px;
+  padding: 12px 80px 12px 15px;
+  position: absolute;
+  bottom: 16%;
+  right: 2%;
+  -webkit-transition: all 0.2s ease 0s;
+  transition: all 0.2s ease 0s;
+}
+
+form .btn:hover{
+  background: #fff;
+  color: #00d3bf;
+}
+
+form .btn .fa{
+  font-size: 38px;
+  position: absolute;
+  top: 5px;
+  right: 15px;
+}
+
+form .form-footer{
+  font-size: 14px;
+  color: #fff;
+  text-transform: capitalize;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+form .form-footer a{
+  font-size: 14px;
+  color: #fff;
+}
+
+form .form-footer a:hover{
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 990px){
+  form .heading{ margin-left: 0; }
+  form .btn{ right: -10px; }
+  form .btn .fa{
+    top: 7px;
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 480px){
+  form .heading{
+    font-size: 22px;
+  }
+  form .btn{ padding: 7px 37px 6px 15px; }
+  form .btn .fa{ font-size: 24px; }
+}
